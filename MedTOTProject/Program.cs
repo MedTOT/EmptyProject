@@ -11,6 +11,7 @@ namespace MedTOTProject
         static void Main(string[] args)
         {
             Console.Write("hello world");
+            cx;
         }
     }
 }
