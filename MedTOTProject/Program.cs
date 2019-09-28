@@ -10,10 +10,7 @@ namespace MedTOTProject
     {
         static void Main(string[] args)
         {
-            Console.Write("hello world");1+
-            cx;
-			1
-			2
+            Console.Write("hello world");a
         }
     }
 }
